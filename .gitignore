@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+.cursor/
+**/AGENTS.md
+**/SKILL.md
+**/*COVER_LETTER*
+**/VENUE*
+**/*.docx
+**/*.pdf
