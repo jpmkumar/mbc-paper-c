@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: "Paper C: case-grouped evaluation of frozen vision encoders on breast histology (IDC/BCSS + BreakHis)"
+authors:
+  - family-names: "Muthu Kumar"
+    given-names: M
+    orcid: "https://orcid.org/0009-0000-8120-7465"
+    affiliation: "Vellore Institute of Technology"
+  - family-names: "Selva Rani"
+    given-names: B
+    orcid: "https://orcid.org/0000-0003-3068-862X"
+    affiliation: "Vellore Institute of Technology"
+version: "1.0.0"
+date-released: "2026-11-17"
+license: MIT
+repository-code: "https://github.com/jpmkumar/mbc-paper-c"
+keywords:
+  - computational pathology
+  - evaluation protocol
+  - DINOv2
+  - BreakHis
+  - IDC
