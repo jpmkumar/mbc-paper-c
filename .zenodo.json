@@ -1,6 +1,6 @@
 {
   "title": "Paper C: case-grouped evaluation of frozen vision encoders on breast histology (IDC/BCSS + BreakHis)",
-  "description": "Code, preregistration locks, frozen case splits, and curated metrics for a two-stage classical study of protocol optimism and field of view with frozen DINOv2 ViT-L/14 and ResNet-50. Stage 1 uses the public IDC archive and BCSS; Stage 2 replicates protocol optimism on BreakHis with a confirmatory F-MLP. Companion release for the Engineering Reports manuscript. Parent monorepo: https://github.com/jpmkumar/mbc",
+  "description": "Research code, preregistration locks, frozen case splits, and curated metrics for a two-stage classical study of protocol optimism and field of view with frozen DINOv2 ViT-L/14 and ResNet-50. Stage 1: public IDC archive and BCSS. Stage 2: BreakHis confirmatory F-MLP. Parent monorepo: https://github.com/jpmkumar/mbc",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",

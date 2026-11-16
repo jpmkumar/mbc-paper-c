@@ -1,7 +1,7 @@
 # Paper C curated results
 
 `curated_metrics.json` holds the locked co-primary and ordered-secondary
-estimates used in the manuscript. Raw prediction caches and full inference
+estimates reported in the study. Raw prediction caches and full inference
 artifacts remain on the GPU server under `~/mbc-primary/results/paper-c/`
 (and a local sync mirror in `locked_inference/`, gitignored).
 
