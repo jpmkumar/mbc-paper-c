@@ -1,0 +1,28 @@
+{
+  "metric": "case_balanced_auprc",
+  "left_label": "random-k1",
+  "right_label": "grouped-k1",
+  "kendall_tau": 1.0,
+  "kendall_p_descriptive": 1.0,
+  "models": [
+    {
+      "encoder": "dinov2_vitl14",
+      "left": 0.8721766322210461,
+      "right": 0.849556026514143,
+      "difference": 0.022620605706903163,
+      "left_rank": 1,
+      "right_rank": 1,
+      "rank_change_right_minus_left": 0
+    },
+    {
+      "encoder": "resnet50",
+      "left": 0.8387907430338623,
+      "right": 0.8160938981041853,
+      "difference": 0.02269684492967694,
+      "left_rank": 2,
+      "right_rank": 2,
+      "rank_change_right_minus_left": 0
+    }
+  ],
+  "inference_note": "Descriptive rank analysis; case-bootstrap rank uncertainty must be computed from paired predictions for manuscript reporting."
+}

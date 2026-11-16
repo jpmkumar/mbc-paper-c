@@ -1,0 +1,30 @@
+{
+  "method": "Holm step-down, family size 2",
+  "alpha": 0.05,
+  "ordered_hypotheses": [
+    "protocol_optimism",
+    "context_gain"
+  ],
+  "results": {
+    "protocol_optimism": {
+      "raw_p": 9.999000099990002e-05,
+      "holm_adjusted_p": 0.00019998000199980003,
+      "reject_at_0.05": true,
+      "difference": 0.02347219487277552,
+      "ci_95_percentile": [
+        0.015206516570592899,
+        0.0331723241217352
+      ]
+    },
+    "context_gain": {
+      "raw_p": 0.404959504049595,
+      "holm_adjusted_p": 0.404959504049595,
+      "reject_at_0.05": false,
+      "difference": -0.005654158178109769,
+      "ci_95_percentile": [
+        -0.019667387774913492,
+        0.007352199284128475
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "rows": 277524,
+  "case_identifiers": 279,
+  "calibration_intercept": -0.008153966422346101,
+  "calibration_slope": 0.9956971607844395,
+  "case_balanced_brier": 0.09676253658714819,
+  "case_balanced_log_loss": 0.3165555493401225,
+  "predictions_sha256": "6fe4df4f081e379e89d18ac295a14a5cce88439424e545e71680f98056b78965",
+  "reliability_sha256": "d59bbc3b03c30637701ae02892e01d5010fbc7b4c621e61389e1eed223e220cd",
+  "risk_coverage_sha256": "450b686d660a49c7346880a9f069a215f4e0236c163a940a4a994dbff2627ef1",
+  "coverage_claim": "descriptive empirical selective risk only; no conformal guarantee"
+}

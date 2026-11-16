@@ -1,11 +1,14 @@
-# Paper C — classical protocol optimism / FOV
+# Paper C — protocol optimism / FOV with BreakHis replication
 
-Standalone code release extracted from the MBC monorepo at commit `6cdf662`.
+Standalone code release for the combined Stage 1 (IDC/BCSS) + Stage 2
+(BreakHis) study. Extracted from the MBC monorepo at commit `88756c0`.
 
 - Parent monorepo: https://github.com/jpmkumar/mbc
-- This repository contains only git-tracked research code, preregistration locks, and curated metrics.
-- Manuscript drafts, venue/cover letters, AI tooling notes (AGENTS/SKILL), and local data archives are excluded.
-- Shared training libraries that serve multiple papers remain in the monorepo `src/` tree.
+- Layout: `paper/` (Stage 1), `paper/breakhis/` (Stage 2), `preregistration/`, `data/splits/`
+- Contains git-tracked research code, lock manifests, frozen splits, and curated metrics only
+- Manuscript drafts, venue letters, AI tooling notes, and raw embedding caches are excluded
+
+Former repository `mbc-paper-c-plus` is archived; use this repo for citation.
 
 ## License
 
